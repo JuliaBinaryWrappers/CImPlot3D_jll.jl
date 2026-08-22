@@ -1,123 +1,123 @@
 [[CImPlot3D]]
 arch = "aarch64"
-git-tree-sha1 = "d92eb314453c0d73a74a739ba027f438549964e4"
+git-tree-sha1 = "f8bdec7e2222f83e114ed4c7df0d83e3f227d42f"
 os = "macos"
 
     [[CImPlot3D.download]]
-    sha256 = "25cfa35e77fb78bfa849452b820f928372157172148160588eaac8d27b7cecc7"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "dd582a179767e9cc1e878afabc227c2ff9e88a72112a203067e59627b7f52bbe"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.aarch64-apple-darwin.tar.gz"
 [[CImPlot3D]]
 arch = "aarch64"
-git-tree-sha1 = "a6107acb33d55364e96ea66eb102db11688049e4"
+git-tree-sha1 = "a35b91e6be6a39f4e3d6bb940ef6666c3db9c757"
 libc = "glibc"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "bfff4ea49b06ddae7a6ca0e37613536bbe50614eb9a6b37f3c7790994ea677f3"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "06c8c99623c518a3128c67cee470ba0bf596a873b294f23990599f7b486f9472"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.aarch64-linux-gnu.tar.gz"
 [[CImPlot3D]]
 arch = "aarch64"
-git-tree-sha1 = "11d5a8e48cacacdf9e4eaf07807d93de69bcb528"
+git-tree-sha1 = "eb17c70c30ffd7da463af4d8755f2216d7ac62ec"
 libc = "musl"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "ceb348375dd6b4d0e172030552f15e6aea7883ddce243037ac135763acf0c043"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.aarch64-linux-musl.tar.gz"
+    sha256 = "f707b38f1c743078e2838c906a2c450edd241e08dd1e335afae075f722d9c761"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.aarch64-linux-musl.tar.gz"
 [[CImPlot3D]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "911d887b28913e6961f7efb06c62d0f1dbbdad0e"
+git-tree-sha1 = "64f978d65d36597b23465bad8e6dad15b0e8c02a"
 libc = "glibc"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "c1613e328853ea74a60453973ce4bf38b26a6e1703845580e653d2b3c1709af7"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4a267f92940ee4e323477dcb9be2c64587339bffd09dd2d7a78f246919f9f664"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.armv7l-linux-gnueabihf.tar.gz"
 [[CImPlot3D]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "953e3d5832d40cee9211e4fe777eec3cc69a8d0d"
+git-tree-sha1 = "8e662aa4a833d92c043d3aa751389c163876dd49"
 libc = "musl"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "e6a1c823650aada08d8b3dd999f48759dc44a8de2bf134ca4440a4835dabca19"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "d3b3d3354287fdb07061460b356a4c7ad148d8182e667c13bb843bc981a4716b"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.armv7l-linux-musleabihf.tar.gz"
 [[CImPlot3D]]
 arch = "i686"
-git-tree-sha1 = "66c2cbc7618ddc0a1130ad63891e2dd0e3563e24"
+git-tree-sha1 = "49bcfb762dd0677c07ef45018cb9325989a1d9ed"
 libc = "glibc"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "9c8cfd3e6232b0b488052cb56bc41d5e0dddc2cc9a2501a78c11262ced8b50af"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.i686-linux-gnu.tar.gz"
+    sha256 = "8d581a98b4d996cffa96d661adc467a6f78394717743b5fb174e33f3985ef234"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.i686-linux-gnu.tar.gz"
 [[CImPlot3D]]
 arch = "i686"
-git-tree-sha1 = "f5aa5f0a98958e6f7e47a8436ea3860f0bdee662"
+git-tree-sha1 = "68ebe5575bc9335ed61665bab76c94f32f844718"
 libc = "musl"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "07a7b03739cdf2a68fcda4018eaa3bbf9490c60902d74a2384e3070c5ba902ff"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.i686-linux-musl.tar.gz"
+    sha256 = "9d617e294dc7f35a35db48dfffb5e45ddeeadb908f8f6c6d7e619af2481303e8"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.i686-linux-musl.tar.gz"
 [[CImPlot3D]]
 arch = "i686"
-git-tree-sha1 = "f0efd5561aff902ca56bdf4969400c2ef5db2c3a"
+git-tree-sha1 = "542a87793a440846c314164a4d7ca6e420da012f"
 os = "windows"
 
     [[CImPlot3D.download]]
-    sha256 = "940ced40d507b2a3448753629d89241768def52ffcb93bdae1ddf4e682dc59f3"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.i686-w64-mingw32.tar.gz"
+    sha256 = "71c7a986705f3d23ef7022abe1dc2697ec9ec8d32d5b7df16a49a9663588ee29"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.i686-w64-mingw32.tar.gz"
 [[CImPlot3D]]
 arch = "powerpc64le"
-git-tree-sha1 = "ecf46b165c641944e5232ebe363930108ae5ac93"
+git-tree-sha1 = "3d37a343afc07168babfdae65c9ff3b06bd629cf"
 libc = "glibc"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "cb69a225b9984b4b16a49418e47c5a710ec49be049ec183b14a88ff2a439ab86"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2ba8a1439821827d4dc94db538eb06d889ffa96c673484257b7fe07bb2df3737"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.powerpc64le-linux-gnu.tar.gz"
 [[CImPlot3D]]
 arch = "x86_64"
-git-tree-sha1 = "c54c97cbf171a2fab1c5479b9af4a18257bdebd3"
+git-tree-sha1 = "83e5392f3138117d166f42eec829f881731d8148"
 os = "macos"
 
     [[CImPlot3D.download]]
-    sha256 = "2554dc90ae17a633008f850d3db77909e6ac5e3e3c62159b70a8053e4b3fe153"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "bf2c1765fb754b08a8f7c042f77845fcdf84727b1bb36d879ec8f3e741ab4706"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.x86_64-apple-darwin.tar.gz"
 [[CImPlot3D]]
 arch = "x86_64"
-git-tree-sha1 = "fdbfeedffd081182d2ea7f8bc63db878aa216676"
+git-tree-sha1 = "d954b3b4af939832703cde86cc05906a07513f5c"
 libc = "glibc"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "c440c71fbb9eff28fb12b652eb7f5c6dec4c0d7ed82846424ae917563cbb2647"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "976e7ef5196589deee10cc22a68107b510dc394e71694fd9dddffad40a452059"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.x86_64-linux-gnu.tar.gz"
 [[CImPlot3D]]
 arch = "x86_64"
-git-tree-sha1 = "38022d11e599ea08149fd5158fe23983c2a301e8"
+git-tree-sha1 = "7bcab8497d8622654e67d4cf571b419eca049477"
 libc = "musl"
 os = "linux"
 
     [[CImPlot3D.download]]
-    sha256 = "f1aefa4347e229e546c61eef0268561e4ca7d32b45643cad809db4f05dcde2d8"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.x86_64-linux-musl.tar.gz"
+    sha256 = "f22d9c14d9d217fc859739487f9e1ee161d47c7a63ccba353736a25a4dc579c2"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.x86_64-linux-musl.tar.gz"
 [[CImPlot3D]]
 arch = "x86_64"
-git-tree-sha1 = "519fac31bb416a10d16e09c5447281322cf46329"
+git-tree-sha1 = "a63b798fbbc2ded2401d786d569c9362c6b0a120"
 os = "freebsd"
 
     [[CImPlot3D.download]]
-    sha256 = "9f19d951ccd521dfc37c1f6969c9a7dc23e8ad886e493860eac3dff4dec2f461"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "514fcf769220439d548cc2513474833575ac741221f5451d6b8a9305485e2b84"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.x86_64-unknown-freebsd.tar.gz"
 [[CImPlot3D]]
 arch = "x86_64"
-git-tree-sha1 = "910aad90e25d0fe437fd198d6148c5b07ae6db20"
+git-tree-sha1 = "52def49936267aa409651366c589d16e490e0de3"
 os = "windows"
 
     [[CImPlot3D.download]]
-    sha256 = "e9b0833b5270d766de9e0083f85ee2a5c6c0c799f18693146c9f7dd157510dda"
-    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.0+0/CImPlot3D.v0.4.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "04edffff74561ddc74e90d73d102397a9ba6efc71356e91387c142a87924cf85"
+    url = "https://github.com/JuliaBinaryWrappers/CImPlot3D_jll.jl/releases/download/CImPlot3D-v0.4.1+0/CImPlot3D.v0.4.1.x86_64-w64-mingw32.tar.gz"
