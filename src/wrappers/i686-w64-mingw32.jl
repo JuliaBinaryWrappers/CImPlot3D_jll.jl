@@ -3,16 +3,17 @@ export cimplot3d_constants, cimplot3d_definitions, cimplot3d_structs_and_enums, 
 
 using CImGuiPack_jll
 JLLWrappers.@generate_wrapper_header("CImPlot3D")
-JLLWrappers.@declare_file_product(cimplot3d_constants)
+JLLWrappers.@declare_library_product(libcimplot3d, "libcimplot3d.dll")
 JLLWrappers.@declare_file_product(cimplot3d_definitions)
 JLLWrappers.@declare_file_product(cimplot3d_structs_and_enums)
 JLLWrappers.@declare_file_product(cimplot3d_typedefs_dict)
-JLLWrappers.@declare_library_product(libcimplot3d, "libcimplot3d.dll")
+JLLWrappers.@declare_file_product(cimplot3d_constants)
 function __init__()
     JLLWrappers.@generate_init_header(CImGuiPack_jll)
-    JLLWrappers.@init_file_product(
-        cimplot3d_constants,
-        "share\\cimplot3d\\constants.json",
+    JLLWrappers.@init_library_product(
+        libcimplot3d,
+        "bin\\libcimplot3d.dll",
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_file_product(
@@ -30,10 +31,9 @@ function __init__()
         "share\\cimplot3d\\typedefs_dict.json",
     )
 
-    JLLWrappers.@init_library_product(
-        libcimplot3d,
-        "bin\\libcimplot3d.dll",
-        RTLD_LAZY | RTLD_DEEPBIND,
+    JLLWrappers.@init_file_product(
+        cimplot3d_constants,
+        "share\\cimplot3d\\constants.json",
     )
 
     JLLWrappers.@generate_init_footer()
